@@ -1,0 +1,13 @@
+
+body{
+    background-color: #333745;
+}
+
+.navbar .brand{
+    padding-left: 80px;
+}
+
+.sidebar-nav {
+    font-size: 26px;
+    color: white
+}
