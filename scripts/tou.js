@@ -2,7 +2,7 @@ $(function () {
     $('#myCarousel').carousel({
         interval: 3500
     });
-
+    
 });
 
 $(window).load(function () {
@@ -28,8 +28,8 @@ $(window).load(function () {
         ended: function () { // The $.jPlayer.event.ended event
             $(this).jPlayer("play"); // Repeat the media
         }
-    }).append('<a title="Pause" class="speaker-play" href="javascript:void(0)">speaker</a>');
-
+    })
+    $('#footer-text').append('<li><a title="Pause" class="speaker-play" href="javascript:void(0)">speaker</a></li><li style="line-height: 48px;margin: 0 20px;">CopyRight &copy; ' + new Date().getFullYear() + ' TouVision </li>');
 
     $('.speaker-play').click(function () {
         var title = $(this).attr('title');
@@ -43,7 +43,6 @@ $(window).load(function () {
         }
         $(this).toggleClass('speaker-pause');
     });
-
 
 });
 

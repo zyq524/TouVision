@@ -39,14 +39,19 @@
             <!--/.well -->
         </div><!--/span-->
         <div class="span10">
-            <div id="myCarousel" class="carousel slide">
-              <!-- Carousel items -->
-              <div class="carousel-inner">
-              </div>
-              <!-- Carousel nav -->
-              <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-              <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-            </div>
+            
+            <ul id="contact-list">
+                <li id="contact-head" style="margin-bottom: 60px;">CONTACT INFORMATION</li>
+                <li><img src="img/Mail.png" alt="email" /><span class="contact-title">E-MAIL</span> <span class="contact-value">toutou9@outlook.com</span></li>
+                <li><img src="img/Telephone.png" alt="phone" /><span class="contact-title" style="padding-right: 25px">TELEPHONE</span> <span>+86 021 12345678</span></li>
+                <li><img src="img/Mobile.png" alt="mobile" /><span class="contact-title">MOBILE</span> <span>+86 12345678910</span></li>
+                <li>
+                    <ul>
+                        <li style="float: left; margin: 10px 10px 10px 0px;"><a href="http://www.weibo.com/zymthe9" target="_blank"><img src="img/weibo.png" alt="weibo" /></a></li>
+                        <li style="float: left; margin: 10px;"><a href="http://www.facebook.com/steven.zhang.9847867" target="_blank""><img src="img/facebook.png" alt="facebook" /></a></li>
+                    </ul>
+                </li>
+            </ul>
         </div><!--/span-->
           <footer>
             <ul id="footer-text">
@@ -74,7 +79,7 @@
 
     <script>
         $(function () {
-            var App = new app.MenuView('home');
+            var App = new app.MenuView('contact');
         });
     </script>
      <!-- Templates -->
