@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="becky-eric.html"
+
+>
+  <image imageURL="images/DSC_9217.jpg"
+	thumbURL="thumbs/DSC_9217.jpg"
+	linkURL="images/DSC_9217.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9217]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9229.jpg"
+	thumbURL="thumbs/DSC_9229.jpg"
+	linkURL="images/DSC_9229.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9229]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9263.jpg"
+	thumbURL="thumbs/DSC_9263.jpg"
+	linkURL="images/DSC_9263.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9263]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9267.jpg"
+	thumbURL="thumbs/DSC_9267.jpg"
+	linkURL="images/DSC_9267.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9267]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9273.jpg"
+	thumbURL="thumbs/DSC_9273.jpg"
+	linkURL="images/DSC_9273.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9273]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9294.jpg"
+	thumbURL="thumbs/DSC_9294.jpg"
+	linkURL="images/DSC_9294.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9294]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9323.jpg"
+	thumbURL="thumbs/DSC_9323.jpg"
+	linkURL="images/DSC_9323.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9323]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9386.jpg"
+	thumbURL="thumbs/DSC_9386.jpg"
+	linkURL="images/DSC_9386.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9386]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9446.jpg"
+	thumbURL="thumbs/DSC_9446.jpg"
+	linkURL="images/DSC_9446.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9446]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9474.jpg"
+	thumbURL="thumbs/DSC_9474.jpg"
+	linkURL="images/DSC_9474.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9474]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9477.jpg"
+	thumbURL="thumbs/DSC_9477.jpg"
+	linkURL="images/DSC_9477.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9477]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9513.jpg"
+	thumbURL="thumbs/DSC_9513.jpg"
+	linkURL="images/DSC_9513.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9513]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_9594.jpg"
+	thumbURL="thumbs/DSC_9594.jpg"
+	linkURL="images/DSC_9594.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_9594]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

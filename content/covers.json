@@ -1,0 +1,11 @@
+covers([
+{"src":"img/cover/1.jpg","caption":"wedding, shanghai, april 2011","isActive":"true"},
+{"src":"img/cover/2.jpg","caption":"wedding, shanghai, april 2011","isActive":"false"},
+{"src":"img/cover/3.jpg","caption":"wedding, shanghai, april 2011","isActive":"false"},
+{"src":"img/cover/4.jpg","caption":"wedding, shanghai, april 2011","isActive":"false"},
+{"src":"img/cover/5.jpg","caption":"wedding, shanghai, march 2012","isActive":"false"},
+{"src":"img/cover/6.jpg","caption":"wedding, shanghai, march 2012","isActive":"false"},
+{"src":"img/cover/7.jpg","caption":"wedding, shanghai, march 2012","isActive":"false"},
+{"src":"img/cover/8.jpg","caption":"wedding, shanghai, april 2012","isActive":"false"},
+{"src":"img/cover/9.jpg","caption":"wedding, shanghai, april 2012","isActive":"false"},
+])

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle=""
+	backgroundColor="rgba(255,255,255,0)"
+	galleryWidth="100%"
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+
+>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0063.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0063.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0063.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0063]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0140.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0140.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0140.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0140]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0173.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0173.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0173.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0173]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0256.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0256.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0256.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0265.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0265.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0265.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0265]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0291.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0291.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0291.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0291]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0369.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0369.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0369.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0369]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0387.jpg"
+	thumbURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/thumbs/dsc_0387.jpg"
+	linkURL="http://zhangyuqinglabs.blob.core.windows.net/touvision/travels/veligandu/images/dsc_0387.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[dsc_0387]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

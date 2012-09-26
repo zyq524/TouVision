@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="dorothy-ronnie.html"
+
+>
+  <image imageURL="images/DSC_0153.jpg"
+	thumbURL="thumbs/DSC_0153.jpg"
+	linkURL="images/DSC_0153.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0153]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0266.jpg"
+	thumbURL="thumbs/DSC_0266.jpg"
+	linkURL="images/DSC_0266.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0266]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0569.jpg"
+	thumbURL="thumbs/DSC_0569.jpg"
+	linkURL="images/DSC_0569.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0569]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0815.jpg"
+	thumbURL="thumbs/DSC_0815.jpg"
+	linkURL="images/DSC_0815.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0815]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0831.jpg"
+	thumbURL="thumbs/DSC_0831.jpg"
+	linkURL="images/DSC_0831.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0831]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0887.jpg"
+	thumbURL="thumbs/DSC_0887.jpg"
+	linkURL="images/DSC_0887.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0887]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0922.jpg"
+	thumbURL="thumbs/DSC_0922.jpg"
+	linkURL="images/DSC_0922.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0922]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0961.jpg"
+	thumbURL="thumbs/DSC_0961.jpg"
+	linkURL="images/DSC_0961.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0961]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0975.jpg"
+	thumbURL="thumbs/DSC_0975.jpg"
+	linkURL="images/DSC_0975.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0975]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4418.jpg"
+	thumbURL="thumbs/DSC_4418.jpg"
+	linkURL="images/DSC_4418.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_4418]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0146.jpg"
+	thumbURL="thumbs/DSC_0146.jpg"
+	linkURL="images/DSC_0146.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0146]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0152.jpg"
+	thumbURL="thumbs/DSC_0152.jpg"
+	linkURL="images/DSC_0152.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[DSC_0152]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

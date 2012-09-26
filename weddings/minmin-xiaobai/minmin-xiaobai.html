@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Minmin-Xiaobai</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="../../bootstrap/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+        padding-left: 60px;
+        padding-right: 60px
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+    </style>
+    <link href="../../bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../../css/touvision.css" rel="stylesheet">
+    
+  </head> 
+
+  <body>
+
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span2">
+            <div id="myMenu" class="sidebar-nav">
+                <ul id="menu" class="nav">
+                    <li><img id="logo" src="../../img/logo_a.png" alt="TouVision" /></li>
+                </ul>
+            </div>
+
+            <!--/.well -->
+        </div><!--/span-->
+        <div class="span10">
+            <!--START JUICEBOX EMBED-->
+            <script src="jbcore/juicebox.js"></script>
+            <script>    new juicebox({
+                    containerId: "juicebox-container",
+                    galleryWidth: "88%",
+                    galleryHeight: "92%",
+					showOpenButton: "FALSE",
+                    backgroundColor: "transparent"
+                });
+            </script>
+        <div id="juicebox-container"></div>
+        <footer>
+            <div id="jpId"></div>
+        </footer>
+<!--END JUICEBOX EMBED-->
+        </div><!--/span-->
+      </div><!--/row-->
+
+    </div><!--/.fluid-container-->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+	<script src="../../scripts/json2.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../scripts/underscore-min.js"></script>
+    <script src="../../scripts/backbone.js"></script>
+	<script src="../../scripts/jquery.jplayer.min.js"></script>
+    <script src="../../scripts/jquery.cookie.js"></script>
+
+    <script src="../../scripts/covers.js"></script>
+	<script src="../../scripts/menu.js"></script>
+    <script src="../../scripts/tou.js"></script>
+
+    <script>
+        $(function () {
+            var App = new app.MenuView('minmin-xiaobai', 'weddings');
+        });
+    </script>
+
+     <!-- Templates -->
+    <script type="text/template" id="cover-template">
+		<img src="<%= src %>" alt="">
+		<div class="carousel-caption">
+			<h4><%= caption %></h4>
+		</div>
+    </script>
+    <script type="text/template" id="menu-template">
+        <a id="<%= name %>" href="<%= src %>"><%= name %></a>
+    </script>
+  </body>
+</html>
