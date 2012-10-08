@@ -4,9 +4,9 @@ menu([
 {"id":"3", "parent":"2", "name":"weddings", src:"javascript:void(0)"},
 {"id":"4", "parent":"2", "name":"travels", src:"javascript:void(0)"},
 {"id":"5", "parent":"0", "name":"about", src:"about.html"},
-{"id":"7", "parent":"3", "name":"dorothy-ronnie", src:"weddings/dorothy-ronnie/dorothy-ronnie.html"},
-{"id":"8", "parent":"3", "name":"minmin-xiaobai", src:"weddings/minmin-xiaobai/minmin-xiaobai.html"},
-{"id":"9", "parent":"3", "name":"becky-eric", src:"weddings/becky-eric/becky-eric.html"},
 {"id":"10", "parent":"3", "name":"yuan-feng", src:"weddings/yuan-feng/yuan-feng.html"},
+{"id":"9", "parent":"3", "name":"becky-eric", src:"weddings/becky-eric/becky-eric.html"},
+{"id":"8", "parent":"3", "name":"minmin-xiaobai", src:"weddings/minmin-xiaobai/minmin-xiaobai.html"},
+{"id":"7", "parent":"3", "name":"dorothy-ronnie", src:"weddings/dorothy-ronnie/dorothy-ronnie.html"},
 {"id":"11", "parent":"4","name":"veligandu", src:"travels/veligandu/veligandu.html"},
 ])

@@ -106,7 +106,7 @@ ul, ol {
 }
 
 .sidebar-nav {
-    font-size: 24px;
+    font-size: 21px;
     color: white
 }
 
@@ -133,12 +133,12 @@ ul, ol {
 
 .nav .nav {
     margin-bottom: 0px;
-    font-size: 19px
+    font-size: 16px
 }
 
 .nav .nav .nav {
     margin-bottom: 0px;
-    font-size: 15px
+    font-size: 12px
 }
 
 .nav .sub-nav {
